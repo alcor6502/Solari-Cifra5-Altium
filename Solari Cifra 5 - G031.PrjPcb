@@ -39,7 +39,7 @@ PrefsRevisionGUID=
 
 [Release]
 ReleaseTarget=1
-ReleaseFolderPath=C:\Users\Alfredo\OneDrive\Documents\HW Development\Altium Projects\Solari Cifra 5 - Rev A
+ReleaseFolderPath=C:\Users\Alfredo\OneDrive\Documents\HW Development\Altium Projects\Solari Cifra 5 - Rev B
 ReleaseZipPath=Z:\Projects\LCD Zone Controller V2R1
 
 [Document1]
@@ -316,11 +316,11 @@ DocumentUniqueId=
 
 [Parameter1]
 Name=VersionRevision
-Value=A
+Value=B
 
 [Parameter2]
 Name=ReleaseDate
-Value=May-01-2021
+Value=July-01-2021
 
 [Parameter3]
 Name=ProjectTitle
@@ -328,7 +328,7 @@ Value=Solari Cifra 5 Control STM32-G031K8
 
 [Parameter4]
 Name=ProjectCode
-Value=SOLC5-G031-A
+Value=SOLC5-G031-B
 
 [Parameter5]
 Name=ProjectAuthor
@@ -660,7 +660,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon Home
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
